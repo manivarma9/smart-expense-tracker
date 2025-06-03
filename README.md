@@ -64,5 +64,5 @@ View and contribute to the source code:
 1. Clone the repository:   
 ```bash
 git clone https://github.com/manivarma9/smart-expense-tracker.git
-cd smart-expense-tracker
+cd smart-expense-tracker 
 
