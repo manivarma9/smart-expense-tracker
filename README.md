@@ -7,7 +7,8 @@ A simple and intuitive Streamlit app to track your expenses, visualize them with
 ## 🚀 Live Demo
 
 Try the live app here:  
-[Smart Expense Tracker on Streamlit](https://share.streamlit.io/manivarma9/smart-expense-tracker/app.py)
+[Smart Expense Tracker on Streamlit](https://smart-expense-tracker-spqyvxe8vesb322eofimzx.streamlit.app/)
+
 
 ---
 
