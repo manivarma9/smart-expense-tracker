@@ -56,6 +56,7 @@ View and contribute to the source code:
 **Charts Visualization:**  
 ![Charts](assets/expense_chart.png)
 
+
 ---
 
 ## 📋 How to Run Locally
