@@ -45,7 +45,7 @@ View and contribute to the source code:
 ## 🖼️ Screenshots
 
 **Dashboard:**  
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 **Add Expense:**  
 ![Add Expense](assets/add_expense.png)
@@ -54,7 +54,7 @@ View and contribute to the source code:
 ![Expense Table](assets/expense_table.png)
 
 **Charts Visualization:**  
-![Charts](assets/expense_chart.png)
+![Charts](assets/Charts.png)
 
 
 ---
