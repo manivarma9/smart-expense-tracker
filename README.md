@@ -45,7 +45,7 @@ View and contribute to the source code:
 ## 🖼️ Screenshots
 
 **Dashboard:**  
-![Dashboard](assets/dashboard)
+![Dashboard](assets/dashboard.png)
 
 **Add Expense:**  
 ![Add Expense](assets/add_expense.png)
@@ -63,5 +63,5 @@ View and contribute to the source code:
 1. Clone the repository:  
 ```bash
 git clone https://github.com/manivarma9/smart-expense-tracker.git
-cd smart-expense-tracker 
+cd smart-expense-tracker
 
