@@ -45,7 +45,7 @@ View and contribute to the source code:
 ## 🖼️ Screenshots
 
 **Dashboard:**  
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard)
 
 **Add Expense:**  
 ![Add Expense](assets/add_expense.png)
