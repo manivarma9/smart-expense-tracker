@@ -51,10 +51,10 @@ View and contribute to the source code:
 ![Add Expense](add_expense.png)
 
 **Expense Table:**  
-![Expense Table](exxpense.jpg)
+![Expense Table](add_expense.jpg)
 
 **Charts Visualization:**  
-![Charts](Charts.jpg)
+![Charts](charts.jpg)
 
 
 ---
