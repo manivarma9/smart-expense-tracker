@@ -48,13 +48,13 @@ View and contribute to the source code:
 ![Dashboard](dashboard.png)
 
 **Add Expense:**  
-![Add Expense](assets/add_expense.png)
+![Add Expense](add_expense.png)
 
 **Expense Table:**  
-![Expense Table](assets/a1.jpg)
+![Expense Table](exxpense.jpg)
 
 **Charts Visualization:**  
-![Charts](assets/a4.jpg)
+![Charts](Charts.jpg)
 
 
 ---
