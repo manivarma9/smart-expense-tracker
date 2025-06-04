@@ -54,7 +54,7 @@ View and contribute to the source code:
 ![Expense Table](expense_table.png)
 
 **Charts Visualization:**  
-![Charts](Charts.png)
+![Charts](graphs.png)
 
 
 ---
